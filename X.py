@@ -424,7 +424,7 @@ class Main:
 		print("\033[1;32m [1] First You Subscribe Channel")
 		print("\033[1;33m [2] Exit")
 		print("")
-		AHSAN RJ = input("\n\033[1;36m  Chose ==> \033[1;32m")
+		ALIYAN = input("\n\033[1;36m  Chose ==> \033[1;32m")
 		if AHSAN RJ in ["", " "]:
 			exit()
 		elif AHSAN RJ in ["2", "02"]:
