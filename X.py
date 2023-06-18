@@ -425,12 +425,12 @@ class Main:
 		print("\033[1;33m [2] Exit")
 		print("")
 		ALIYAN = input("\n\033[1;36m  Chose ==> \033[1;32m")
-		if AHSAN RJ in ["", " "]:
+		if ALIYAN in ["", " "]:
 			exit()
-		elif AHSAN RJ in ["2", "02"]:
+		elif ALIYAN in ["2", "02"]:
 			print("    Thanks🥰♥️")
 			exit()
-		elif AHSAN RJ in ["1", "01"]:
+		elif ALIYAN in ["1", "01"]:
 			os.system("xdg-open https://youtube.com/@JUNGLI.244.gaming.")
 			print("")
 			time.sleep(2.0)
